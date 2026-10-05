@@ -5,7 +5,7 @@ Prueba: **DESARROLLADOR JR**
 
 Deadline: **1 día**
 
-Nombre: Mariana Genet Castrejón Arcos 
+Nombre: Mariana Genet Castrejón Arcos.
 
 ------
 ## Clona y crea tu repositorio para la evaluación ##
